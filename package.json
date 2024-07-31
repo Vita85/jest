@@ -1,0 +1,17 @@
+{
+  "name": "learnjest",
+  "version": "1.0.0",
+  "description": "I am learning jest",
+  "main": "index.js",
+  "scripts": {
+  "test": "jest"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "vitaNom",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
